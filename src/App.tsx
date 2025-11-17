@@ -11,7 +11,7 @@ import Login from "./pages/Auth/Login";
 import Signup from "./pages/Auth/Signup";
 import Home from "./pages/Dashboard/Home";
 import Articles from "./pages/Dashboard/Articles";
-import ArticleDetail from "@/pages/Dashboard/ArticleDetail";
+import ArticleDetail from "./pages/Dashboard/ArticleDetail";
 import MediaAnalysis from "./pages/Dashboard/MediaAnalysis";
 import PoliticalTimeline from "./pages/Dashboard/PoliticalTimeline";
 import Sources from "./pages/Dashboard/Sources";
