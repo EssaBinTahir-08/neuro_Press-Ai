@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "status": "clean",
+    "title": "Climate Summit Photo",
+    "source": "Reuters",
+    "manipulationScore": 5,
+    "aiGenerated": false,
+    "timestamp": "2025-02-01"
+  },
+  {
+    "id": 2,
+    "type": "video",
+    "status": "suspected",
+    "title": "Political Debate Clip",
+    "source": "CNN",
+    "manipulationScore": 62,
+    "aiGenerated": false,
+    "timestamp": "2025-01-28"
+  },
+  {
+    "id": 3,
+    "type": "audio",
+    "status": "clean",
+    "title": "Interview Recording",
+    "source": "BBC",
+    "manipulationScore": 12,
+    "aiGenerated": false,
+    "timestamp": "2025-01-25"
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "status": "flagged",
+    "title": "Protest Scene",
+    "source": "Twitter",
+    "manipulationScore": 78,
+    "aiGenerated": true,
+    "timestamp": "2025-02-03"
+  },
+  {
+    "id": 5,
+    "type": "video",
+    "status": "clean",
+    "title": "Product Launch Event",
+    "source": "TechCrunch",
+    "manipulationScore": 8,
+    "aiGenerated": false,
+    "timestamp": "2025-01-30"
+  }
+]

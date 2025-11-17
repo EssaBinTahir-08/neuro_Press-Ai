@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Reuters",
+    "quality": 90,
+    "region": "Global",
+    "category": "News Wire",
+    "bias": "Center",
+    "verification": "High"
+  },
+  {
+    "id": 2,
+    "name": "BBC",
+    "quality": 88,
+    "region": "UK",
+    "category": "Broadcaster",
+    "bias": "Center-Left",
+    "verification": "High"
+  },
+  {
+    "id": 3,
+    "name": "TechCrunch",
+    "quality": 85,
+    "region": "USA",
+    "category": "Technology",
+    "bias": "Center",
+    "verification": "Medium"
+  },
+  {
+    "id": 4,
+    "name": "The Lancet",
+    "quality": 95,
+    "region": "Global",
+    "category": "Scientific Journal",
+    "bias": "Center",
+    "verification": "Very High"
+  },
+  {
+    "id": 5,
+    "name": "NASA",
+    "quality": 92,
+    "region": "USA",
+    "category": "Government Agency",
+    "bias": "Center",
+    "verification": "Very High"
+  },
+  {
+    "id": 6,
+    "name": "CNN",
+    "quality": 75,
+    "region": "USA",
+    "category": "Broadcaster",
+    "bias": "Left",
+    "verification": "Medium"
+  },
+  {
+    "id": 7,
+    "name": "Fox News",
+    "quality": 72,
+    "region": "USA",
+    "category": "Broadcaster",
+    "bias": "Right",
+    "verification": "Medium"
+  }
+]
